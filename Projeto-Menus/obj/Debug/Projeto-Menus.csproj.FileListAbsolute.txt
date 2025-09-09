@@ -1,0 +1,11 @@
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\bin\Debug\Projeto-Menus.exe.config
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\bin\Debug\Projeto-Menus.exe
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\bin\Debug\Projeto-Menus.pdb
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\obj\Debug\Projeto-Menus.csproj.AssemblyReference.cache
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\obj\Debug\Projeto_Menus.Form1.resources
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\obj\Debug\Projeto_Menus.Properties.Resources.resources
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\obj\Debug\Projeto-Menus.csproj.GenerateResource.cache
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\obj\Debug\Projeto-Menus.csproj.CoreCompileInputs.cache
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\obj\Debug\Projeto-Menus.exe
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\obj\Debug\Projeto-Menus.pdb
+C:\Users\luan.vpcastro\source\repos\Projeto-Menus\obj\Debug\Projeto_Menus.janela.resources
